@@ -6,3 +6,4 @@ SpeechRecognition
 textblob
 wikipedia
 wolframalpha
+pyaudio
