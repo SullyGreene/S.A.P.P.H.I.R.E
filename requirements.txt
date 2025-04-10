@@ -1,0 +1,8 @@
+bs4
+nltk
+pyttsx3
+requests
+speech_recognition
+textblob
+wikipedia
+wolframalpha
