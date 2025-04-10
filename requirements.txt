@@ -2,7 +2,7 @@ bs4
 nltk
 pyttsx3
 requests
-speech_recognition
+SpeechRecognition
 textblob
 wikipedia
 wolframalpha
